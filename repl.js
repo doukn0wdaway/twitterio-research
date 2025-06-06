@@ -1,4 +1,4 @@
-const repl = require("repl");
+import repl from "repl";
 
 const server = repl.start("custom> ");
 

@@ -2,6 +2,7 @@
   "name": "twitterio-helpers",
   "version": "1.0.0",
   "main": "repl.js",
+  "type": "module",
   "scripts": {
     "repl": "node repl.js"
   },
