@@ -1,0 +1,11 @@
+{
+  "name": "twitterio-helpers",
+  "version": "1.0.0",
+  "main": "repl.js",
+  "scripts": {
+    "repl": "node repl.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

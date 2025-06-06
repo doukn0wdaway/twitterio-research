@@ -1,0 +1,846 @@
+{
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "1930626299556753476",
+      "url": "https://x.com/0xjlab/status/1930626299556753476",
+      "twitterUrl": "https://twitter.com/0xjlab/status/1930626299556753476",
+      "text": "@selor $INKU @inkulaunch and #Forexlens @ForexLens",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 59,
+      "createdAt": "Thu Jun 05 14:02:33 +0000 2025",
+      "lang": "und",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1930610567430942750",
+      "conversationId": "1930610567430942750",
+      "inReplyToUserId": "1469627802492157952",
+      "inReplyToUsername": "selor",
+      "author": {
+        "type": "user",
+        "userName": "0xjlab",
+        "url": "https://x.com/0xjlab",
+        "twitterUrl": "https://twitter.com/0xjlab",
+        "id": "1886444018479017984",
+        "name": "joi",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1886444523045425152/xwmQJc2g_normal.jpg",
+        "coverPicture": "",
+        "description": "",
+        "location": "",
+        "followers": 33,
+        "following": 204,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Mon Feb 03 15:58:31 +0000 2025",
+        "entities": { "description": { "urls": [] }, "url": {} },
+        "fastFollowersCount": 0,
+        "favouritesCount": 52,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 0,
+        "statusesCount": 29,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": { "description": "", "entities": { "description": {} } },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "hashtags": [{ "indices": [29, 39], "text": "Forexlens" }],
+        "symbols": [{ "indices": [7, 12], "text": "INKU" }],
+        "user_mentions": [
+          {
+            "id_str": "1469627802492157952",
+            "indices": [0, 6],
+            "name": "Selor",
+            "screen_name": "selor"
+          },
+          {
+            "id_str": "1827384937470726144",
+            "indices": [13, 24],
+            "name": "INKU",
+            "screen_name": "inkulaunch"
+          },
+          {
+            "id_str": "738617879713579008",
+            "indices": [40, 50],
+            "name": "Forex Lens DeFAI",
+            "screen_name": "ForexLens"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "1930575736936485268",
+      "url": "https://x.com/xraprr/status/1930575736936485268",
+      "twitterUrl": "https://twitter.com/xraprr/status/1930575736936485268",
+      "text": "@inkulaunch @firdauzanief @FirdauzAnif @rockzeuz I support the $INKU project",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 44,
+      "createdAt": "Thu Jun 05 10:41:38 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1930549481654702275",
+      "conversationId": "1929932400403927350",
+      "inReplyToUserId": "1827384937470726144",
+      "inReplyToUsername": "inkulaunch",
+      "author": {
+        "type": "user",
+        "userName": "xraprr",
+        "url": "https://x.com/xraprr",
+        "twitterUrl": "https://twitter.com/xraprr",
+        "id": "1008629460",
+        "name": "rap",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1926980761309114368/Pa5hRdUb_normal.jpg",
+        "coverPicture": "",
+        "description": "",
+        "location": "",
+        "followers": 2608,
+        "following": 63,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Thu Dec 13 11:51:55 +0000 2012",
+        "entities": { "description": { "urls": [] }, "url": {} },
+        "fastFollowersCount": 0,
+        "favouritesCount": 95,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 10,
+        "statusesCount": 468,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": ["1874056811189510472"],
+        "profile_bio": { "description": "", "entities": { "description": {} } },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "symbols": [{ "indices": [63, 68], "text": "INKU" }],
+        "user_mentions": [
+          {
+            "id_str": "1827384937470726144",
+            "indices": [0, 11],
+            "name": "INKU",
+            "screen_name": "inkulaunch"
+          },
+          {
+            "id_str": "1348190454",
+            "indices": [12, 25],
+            "name": "anfrds",
+            "screen_name": "firdauzanief"
+          },
+          {
+            "id_str": "1100485362",
+            "indices": [26, 38],
+            "name": "Anif Firdauz",
+            "screen_name": "FirdauzAnif"
+          },
+          {
+            "id_str": "2422653889",
+            "indices": [39, 48],
+            "name": "roockzeuz@gmail.com",
+            "screen_name": "rockzeuz"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "1930440752431280290",
+      "url": "https://x.com/xixihaha8889/status/1930440752431280290",
+      "twitterUrl": "https://twitter.com/xixihaha8889/status/1930440752431280290",
+      "text": "@inkulaunch My thoughts on $INKU: This is a consumer-oriented Web3 project, but from the consumer's perspective, Printful is already sufficient for most of them. The majority of consumers don’t need INKU.",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 109,
+      "createdAt": "Thu Jun 05 01:45:15 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1925953579371692070",
+      "conversationId": "1925953579371692070",
+      "inReplyToUserId": "1827384937470726144",
+      "inReplyToUsername": "inkulaunch",
+      "author": {
+        "type": "user",
+        "userName": "xixihaha8889",
+        "url": "https://x.com/xixihaha8889",
+        "twitterUrl": "https://twitter.com/xixihaha8889",
+        "id": "1747614737037459456",
+        "name": "David",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1894665923614658560/ydMTBWaq_normal.jpg",
+        "coverPicture": "",
+        "description": "",
+        "location": "Hong Kong",
+        "followers": 13,
+        "following": 116,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Wed Jan 17 13:40:03 +0000 2024",
+        "entities": { "description": { "urls": [] }, "url": {} },
+        "fastFollowersCount": 0,
+        "favouritesCount": 25,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 3,
+        "statusesCount": 16,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": { "description": "", "entities": { "description": {} } },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "symbols": [{ "indices": [27, 32], "text": "INKU" }],
+        "user_mentions": [
+          {
+            "id_str": "1827384937470726144",
+            "indices": [0, 11],
+            "name": "INKU",
+            "screen_name": "inkulaunch"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "1930410869030101337",
+      "url": "https://x.com/N3_XIT/status/1930410869030101337",
+      "twitterUrl": "https://twitter.com/N3_XIT/status/1930410869030101337",
+      "text": "My drop for the $INKU meme character contest. \n\nThe expressive, vibrant and psychedelic print on the hoodie reflects the creative chaos of fashion art. The blank mask-like face under the hoodie lets the clothing speak first – identity through fashion, not ego. \n\nI'm very curious to see how the platform is developing, can we see some sneak-peaks?? @inkulaunch",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 1,
+      "quoteCount": 0,
+      "viewCount": 317,
+      "createdAt": "Wed Jun 04 23:46:31 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1930410869030101337",
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "N3_XIT",
+        "url": "https://x.com/N3_XIT",
+        "twitterUrl": "https://twitter.com/N3_XIT",
+        "id": "4725310589",
+        "name": "N3XIT",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1839653779269988352/NRZ28CG4_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/4725310589/1519974277",
+        "description": "",
+        "location": "Lunatown",
+        "followers": 433,
+        "following": 66,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Wed Jan 06 14:13:41 +0000 2016",
+        "entities": { "description": { "urls": [] }, "url": {} },
+        "fastFollowersCount": 0,
+        "favouritesCount": 2175,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 171,
+        "statusesCount": 987,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "Started in the Underground of Crypto in 2013 - Focused on Value-Driven Microcaps! You only need a few big plays to make it",
+          "entities": { "description": {} }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "allow_download_status": { "allow_download": true },
+            "display_url": "pic.twitter.com/KCk195XAux",
+            "expanded_url": "https://twitter.com/N3_XIT/status/1930410869030101337/photo/1",
+            "ext_media_availability": { "status": "Available" },
+            "features": {
+              "large": { "faces": [{ "h": 75, "w": 75, "x": 744, "y": 638 }] },
+              "orig": { "faces": [{ "h": 75, "w": 75, "x": 744, "y": 638 }] }
+            },
+            "id_str": "1930410500942086144",
+            "indices": [281, 304],
+            "media_key": "3_1930410500942086144",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARrKMh9zVkAACgACGsoydScXoVkAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGsoyH3NWQAAKAAIayjJ1JxehWQAA",
+                "media_key": "3_1930410500942086144"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/GsoyH3NWQAAsLbP.jpg",
+            "original_info": {
+              "focus_rects": [
+                { "h": 573, "w": 1024, "x": 0, "y": 0 },
+                { "h": 1024, "w": 1024, "x": 0, "y": 0 },
+                { "h": 1024, "w": 898, "x": 126, "y": 0 },
+                { "h": 1024, "w": 512, "x": 332, "y": 0 },
+                { "h": 1024, "w": 1024, "x": 0, "y": 0 }
+              ],
+              "height": 1024,
+              "width": 1024
+            },
+            "sizes": { "large": { "h": 1024, "w": 1024 } },
+            "type": "photo",
+            "url": "https://t.co/KCk195XAux"
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {
+        "symbols": [{ "indices": [16, 21], "text": "INKU" }],
+        "user_mentions": [
+          {
+            "id_str": "1827384937470726144",
+            "indices": [349, 360],
+            "name": "INKU",
+            "screen_name": "inkulaunch"
+          }
+        ]
+      },
+      "quoted_tweet": {
+        "type": "tweet",
+        "id": "1929932400403927350",
+        "url": "https://x.com/inkulaunch/status/1929932400403927350",
+        "twitterUrl": "https://twitter.com/inkulaunch/status/1929932400403927350",
+        "text": "🎨 INKU Meme Character Contest 🐾\n\nWe’re on the hunt for a meme worthy character to represent INKU! While we love feline inspired ideas, feel free to get creative with any style that fits our bold, playful vibe.\n\n🏆 Prize: $20 in $INKU + a feature across our socials\n📅 Deadline: 10th June \n📍 How to Enter: Post your design and tag us+RT the post\n\nLet your creativity shine! We can’t wait to see what you come up with 🎨",
+        "source": "Twitter for iPhone",
+        "retweetCount": 21,
+        "replyCount": 28,
+        "likeCount": 42,
+        "quoteCount": 4,
+        "viewCount": 3440,
+        "createdAt": "Tue Jun 03 16:05:15 +0000 2025",
+        "lang": "en",
+        "bookmarkCount": 15,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1929932400403927350",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "inkulaunch",
+          "url": "https://x.com/inkulaunch",
+          "twitterUrl": "https://twitter.com/inkulaunch",
+          "id": "1827384937470726144",
+          "name": "INKU",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1925890303803772929/WTXEx2sW_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1827384937470726144/1748017899",
+          "description": "",
+          "location": "Dubai",
+          "followers": 787,
+          "following": 21,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": true,
+          "createdAt": "Sat Aug 24 16:38:24 +0000 2024",
+          "entities": { "description": { "urls": [] }, "url": {} },
+          "fastFollowersCount": 0,
+          "favouritesCount": 128,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 2,
+          "statusesCount": 40,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": ["1925953579371692070"],
+          "profile_bio": {
+            "description": "Cooking the Fashion DropPad. Building in @believeapp. CA: CVY9wL2m8aEpCUsoeKs4QnQ9EwmKF8ZYkdPTTSdPfw36",
+            "entities": {
+              "description": {
+                "user_mentions": [
+                  {
+                    "id_str": "0",
+                    "indices": [41, 52],
+                    "name": "",
+                    "screen_name": "believeapp"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "believe.app/coin/CVY9wL2m8…",
+                    "expanded_url": "https://believe.app/coin/CVY9wL2m8aEpCUsoeKs4QnQ9EwmKF8ZYkdPTTSdPfw36",
+                    "indices": [0, 23],
+                    "url": "https://t.co/of8rxxU8H6"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": { "symbols": [{ "indices": [227, 232], "text": "INKU" }] },
+        "quoted_tweet": null,
+        "retweeted_tweet": null
+      },
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "1930397920496595133",
+      "url": "https://x.com/10000X_COIN/status/1930397920496595133",
+      "twitterUrl": "https://twitter.com/10000X_COIN/status/1930397920496595133",
+      "text": "Hi @Snowkorr, I would like to know the progress percentage of $inku product development and how long it will take to be launched.",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 68,
+      "createdAt": "Wed Jun 04 22:55:03 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1930397920496595133",
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "10000X_COIN",
+        "url": "https://x.com/10000X_COIN",
+        "twitterUrl": "https://twitter.com/10000X_COIN",
+        "id": "944721199648481280",
+        "name": "10000xCoin",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1917409094446788608/oXT8WlJx_normal.jpg",
+        "coverPicture": "",
+        "description": "",
+        "location": "中华人民共和国",
+        "followers": 152,
+        "following": 45,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Sun Dec 24 00:07:40 +0000 2017",
+        "entities": { "description": { "urls": [] }, "url": {} },
+        "fastFollowersCount": 0,
+        "favouritesCount": 22,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 10,
+        "statusesCount": 32,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": ["1919879387207630924"],
+        "profile_bio": { "description": "", "entities": { "description": {} } },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "symbols": [{ "indices": [62, 67], "text": "inku" }],
+        "user_mentions": [
+          {
+            "id_str": "976472471716225024",
+            "indices": [3, 12],
+            "name": "Snowkor ❄️",
+            "screen_name": "Snowkorr"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "1930315005922087217",
+      "url": "https://x.com/sky_crypta/status/1930315005922087217",
+      "twitterUrl": "https://twitter.com/sky_crypta/status/1930315005922087217",
+      "text": "@pasternak $INKU",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 63,
+      "createdAt": "Wed Jun 04 17:25:35 +0000 2025",
+      "lang": "qme",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1929965453138600077",
+      "conversationId": "1929965453138600077",
+      "inReplyToUserId": "356651832",
+      "inReplyToUsername": "pasternak",
+      "author": {
+        "type": "user",
+        "userName": "sky_crypta",
+        "url": "https://x.com/sky_crypta",
+        "twitterUrl": "https://twitter.com/sky_crypta",
+        "id": "1466014259880599556",
+        "name": "Alex",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1921405990039113728/rlMz5s5B_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1466014259880599556/1747450820",
+        "description": "",
+        "location": "",
+        "followers": 31,
+        "following": 193,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Wed Dec 01 12:00:28 +0000 2021",
+        "entities": { "description": { "urls": [] }, "url": {} },
+        "fastFollowersCount": 0,
+        "favouritesCount": 45,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 2,
+        "statusesCount": 106,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": { "description": "", "entities": { "description": {} } },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "symbols": [{ "indices": [11, 16], "text": "INKU" }],
+        "user_mentions": [
+          {
+            "id_str": "356651832",
+            "indices": [0, 10],
+            "name": "Ben Pasternak",
+            "screen_name": "pasternak"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "1930272511553622063",
+      "url": "https://x.com/RoinahI27999/status/1930272511553622063",
+      "twitterUrl": "https://twitter.com/RoinahI27999/status/1930272511553622063",
+      "text": "Woooooww !! Mr. @elonmusk support $INKU !! 🔥🚀 @inkulaunch \n\nThis is the biggest news !! 🔥🚀 https://t.co/ADa4HAGJrF",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 3,
+      "likeCount": 8,
+      "quoteCount": 1,
+      "viewCount": 248,
+      "createdAt": "Wed Jun 04 14:36:44 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1930272511553622063",
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "RoinahI27999",
+        "url": "https://x.com/RoinahI27999",
+        "twitterUrl": "https://twitter.com/RoinahI27999",
+        "id": "1729732573075763200",
+        "name": "Roinah Iin || Gear Runner || nexyai.io",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1915786644697051136/U98sAcUE_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1729732573075763200/1745594106",
+        "description": "",
+        "location": "",
+        "followers": 79,
+        "following": 817,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Wed Nov 29 05:22:51 +0000 2023",
+        "entities": { "description": { "urls": [] }, "url": {} },
+        "fastFollowersCount": 0,
+        "favouritesCount": 773,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 298,
+        "statusesCount": 2050,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "Crypto Support system",
+          "entities": { "description": {} }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "allow_download_status": { "allow_download": true },
+            "display_url": "pic.twitter.com/ADa4HAGJrF",
+            "expanded_url": "https://twitter.com/RoinahI27999/status/1930272511553622063/photo/1",
+            "ext_media_availability": { "status": "Available" },
+            "features": {
+              "large": {
+                "faces": [{ "h": 242, "w": 242, "x": 484, "y": 142 }]
+              },
+              "orig": { "faces": [{ "h": 242, "w": 242, "x": 484, "y": 142 }] }
+            },
+            "id_str": "1930272420147146754",
+            "indices": [91, 114],
+            "media_key": "3_1930272420147146754",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARrJtIoCmrACCgACGsm0n0ra0C8AAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGsm0igKasAIKAAIaybSfStrQLwAA",
+                "media_key": "3_1930272420147146754"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/Gsm0igKasAIJwT6.jpg",
+            "original_info": {
+              "focus_rects": [
+                { "h": 716, "w": 1279, "x": 0, "y": 0 },
+                { "h": 1209, "w": 1209, "x": 3, "y": 0 },
+                { "h": 1209, "w": 1061, "x": 77, "y": 0 },
+                { "h": 1209, "w": 605, "x": 305, "y": 0 },
+                { "h": 1209, "w": 1279, "x": 0, "y": 0 }
+              ],
+              "height": 1209,
+              "width": 1279
+            },
+            "sizes": { "large": { "h": 1209, "w": 1279 } },
+            "type": "photo",
+            "url": "https://t.co/ADa4HAGJrF"
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {
+        "symbols": [{ "indices": [34, 39], "text": "INKU" }],
+        "user_mentions": [
+          {
+            "id_str": "44196397",
+            "indices": [16, 25],
+            "name": "Elon Musk",
+            "screen_name": "elonmusk"
+          },
+          {
+            "id_str": "1827384937470726144",
+            "indices": [46, 57],
+            "name": "INKU",
+            "screen_name": "inkulaunch"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "1930272264379085043",
+      "url": "https://x.com/RoinahI27999/status/1930272264379085043",
+      "twitterUrl": "https://twitter.com/RoinahI27999/status/1930272264379085043",
+      "text": "@inkulaunch Woooooww !! Mr. @elonmusk support $INKU !! 🔥🚀 @inkulaunch https://t.co/YiifsVAMba",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 3,
+      "quoteCount": 0,
+      "viewCount": 66,
+      "createdAt": "Wed Jun 04 14:35:45 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1929932400403927350",
+      "conversationId": "1929932400403927350",
+      "inReplyToUserId": "1827384937470726144",
+      "inReplyToUsername": "inkulaunch",
+      "author": {
+        "type": "user",
+        "userName": "RoinahI27999",
+        "url": "https://x.com/RoinahI27999",
+        "twitterUrl": "https://twitter.com/RoinahI27999",
+        "id": "1729732573075763200",
+        "name": "Roinah Iin || Gear Runner || nexyai.io",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1915786644697051136/U98sAcUE_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1729732573075763200/1745594106",
+        "description": "",
+        "location": "",
+        "followers": 79,
+        "following": 817,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Wed Nov 29 05:22:51 +0000 2023",
+        "entities": { "description": { "urls": [] }, "url": {} },
+        "fastFollowersCount": 0,
+        "favouritesCount": 773,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 298,
+        "statusesCount": 2050,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "Crypto Support system",
+          "entities": { "description": {} }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "allow_download_status": { "allow_download": true },
+            "display_url": "pic.twitter.com/YiifsVAMba",
+            "expanded_url": "https://twitter.com/RoinahI27999/status/1930272264379085043/photo/1",
+            "ext_media_availability": { "status": "Available" },
+            "features": {
+              "large": {
+                "faces": [{ "h": 242, "w": 242, "x": 484, "y": 142 }]
+              },
+              "orig": { "faces": [{ "h": 242, "w": 242, "x": 484, "y": 142 }] }
+            },
+            "id_str": "1930272056756842499",
+            "indices": [70, 93],
+            "media_key": "3_1930272056756842499",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARrJtDVm2rADCgACGsm0Zb4asPMAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGsm0NWbasAMKAAIaybRlvhqw8wAA",
+                "media_key": "3_1930272056756842499"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/Gsm0NWbasAM0UCl.jpg",
+            "original_info": {
+              "focus_rects": [
+                { "h": 716, "w": 1279, "x": 0, "y": 0 },
+                { "h": 1209, "w": 1209, "x": 3, "y": 0 },
+                { "h": 1209, "w": 1061, "x": 77, "y": 0 },
+                { "h": 1209, "w": 605, "x": 305, "y": 0 },
+                { "h": 1209, "w": 1279, "x": 0, "y": 0 }
+              ],
+              "height": 1209,
+              "width": 1279
+            },
+            "sizes": { "large": { "h": 1209, "w": 1279 } },
+            "type": "photo",
+            "url": "https://t.co/YiifsVAMba"
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {
+        "symbols": [{ "indices": [46, 51], "text": "INKU" }],
+        "user_mentions": [
+          {
+            "id_str": "1827384937470726144",
+            "indices": [0, 11],
+            "name": "INKU",
+            "screen_name": "inkulaunch"
+          },
+          {
+            "id_str": "44196397",
+            "indices": [28, 37],
+            "name": "Elon Musk",
+            "screen_name": "elonmusk"
+          },
+          {
+            "id_str": "1827384937470726144",
+            "indices": [58, 69],
+            "name": "INKU",
+            "screen_name": "inkulaunch"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    }
+  ],
+  "has_next_page": true,
+  "next_cursor": "DAADDAABCgABGsr2Y_sbcEQKAAIaybRlvhqw8wAIAAIAAAACCAADAAAAAAgABAAAAAAKAAUazDtJe4AnEAoABhrMO0l7f9jwAAA"
+}
